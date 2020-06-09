@@ -1,7 +1,7 @@
 # Battleships in C
 
 ## Context
-This code was developed as a project to the programing introduction discipline on the electric engineering course by USP (_Universidade de São Paulo_) trought 2 months. Suggest by the Dr. Jó Ueyama, who had been teaching C language coding to his class, as a challenge andfinal test to his students, the implementation should be made only using the language standard libraries and should run on the OS terminal. Throughout the code, almost every resource available in the language was at least once used to accomplish the final required result: a fully functional Battleships game.
+This code was developed as a project to the programing introduction discipline on the electric engineering course by USP (_Universidade de São Paulo_) trought 2 months. Suggest by the Dr. Jó Ueyama, who had been teaching C language coding to his class, as a challenge and final test to his students, the implementation should be made only using the language standard libraries and should run on the OS terminal. Throughout the code, almost every resource available in the language was at least once used to accomplish the final required result: a fully functional Battleships game.
 
 ## Trivia	
 The Battleships game was vastly played around the World War I in France, even though some different versions of it were seen around 1890 in Russia being used by military officers. This one was one of the earliest games to receive a computer version, being released in 1979, therefore becoming traditionally a task to be done by beginners on the programming branch as practice and familiarization with the language syntaxes and resources, code algorithm and problem solving.
